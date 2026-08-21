@@ -10,7 +10,9 @@ const sounds = [
     { title: "Sua mãe sabe", url: "https://www.myinstants.com/instant/sua-mae-sabe-que-voce-gosta-de-rapazes-80078/embed/" },
     { title: "Rapaz Xaropinho", url: "https://www.myinstants.com/instant/rapaz-xaropinho-ratinho-20505/embed/" },
     { title: "LEPO", url: "https://www.myinstants.com/instant/tiao-tiaaafo-lipo-47843/embed/" },
-    { title: "Som do Uber", url: "https://www.myinstants.com/instant/uber-eats-56602/embed/" }
+    { title: "Som do Uber", url: "https://www.myinstants.com/instant/uber-eats-56602/embed/" },
+    { title: "Me mata de uma vez", url: "https://www.myinstants.com/instant/me-mata-de-uma-vez-trio-parada-dura-572/embed/" },
+    { title: "Quem é esse rocambole?", url: "https://www.myinstants.com/instant/quem-e-esse-rocambole-38513/embed/" }
 ];
 
 const board = document.getElementById("board");
@@ -44,8 +46,8 @@ sounds.forEach((sound, index) => {
 
     const iframe = document.createElement("iframe");
     iframe.src = sound.url;
-    iframe.width = "90";
-    iframe.height = "130";
+    iframe.width = "115";
+    iframe.height = "165";
     iframe.frameBorder = "0";
     iframe.scrolling = "no";
     iframe.loading = "lazy";
