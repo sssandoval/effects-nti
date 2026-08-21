@@ -1,0 +1,104 @@
+:root {
+    --bg: #0a0a0a;
+    --card-bg: #161616;
+    --card-border: #262626;
+    --accent: #b26bff;
+    --accent-glow: rgba(178, 107, 255, 0.35);
+    --text: #f2f2f2;
+    --text-dim: #8a8a8a;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.site-header {
+    text-align: center;
+    padding: 40px 20px 20px;
+    border-bottom: 1px solid var(--card-border);
+}
+
+.logo {
+    margin: 0;
+    font-size: 2.4rem;
+    letter-spacing: 3px;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-shadow: 0 0 12px var(--accent-glow);
+}
+
+.logo span {
+    color: var(--accent);
+}
+
+.tagline {
+    margin: 6px 0 0;
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+.board {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    gap: 14px;
+    padding: 24px;
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.sound-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 10px 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+
+.sound-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--accent);
+    box-shadow: 0 0 18px var(--accent-glow);
+}
+
+.sound-card .sound-title {
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 90px;
+}
+
+.sound-card iframe {
+    border: none;
+    border-radius: 8px;
+    background: #000;
+    display: block;
+}
+
+.site-footer {
+    text-align: center;
+    padding: 18px;
+    color: var(--text-dim);
+    font-size: 0.8rem;
+    border-top: 1px solid var(--card-border);
+}
