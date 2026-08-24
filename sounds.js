@@ -15,7 +15,7 @@ const sounds = [
     { title: "Quem é esse rocambole?", url: "https://www.myinstants.com/instant/quem-e-esse-rocambole-38513/embed/" },
     { title: "Goofy Slip", url: "https://www.myinstants.com/instant/goofy-slip-37065/embed/" },
     { title: "Notificação do WhatsApp", url: "https://www.myinstants.com/instant/whatsapp-web-notification-59439/embed/" },
-    { title: "Boiola", url: "https://www.myinstants.com/pt/instant/aperte-o-botao/" },
+    { title: "Aperte o botão", url: "https://www.myinstants.com/instant/aperte-o-botao/embed/" },
     { title: "Byd Unico Poluente", url: "https://www.myinstants.com/instant/byd-unico-poluente-fumaca-de-rosca-10493/embed/" }
 ];
 
