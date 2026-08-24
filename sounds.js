@@ -12,7 +12,8 @@ const sounds = [
     { title: "LEPO", url: "https://www.myinstants.com/instant/tiao-tiaaafo-lipo-47843/embed/" },
     { title: "Som do Uber", url: "https://www.myinstants.com/instant/uber-eats-56602/embed/" },
     { title: "Me mata de uma vez", url: "https://www.myinstants.com/instant/me-mata-de-uma-vez-trio-parada-dura-572/embed/" },
-    { title: "Quem é esse rocambole?", url: "https://www.myinstants.com/instant/quem-e-esse-rocambole-38513/embed/" }
+    { title: "Quem é esse rocambole?", url: "https://www.myinstants.com/instant/quem-e-esse-rocambole-38513/embed/" },
+    { title: "Goofy Slip", url: "https://www.myinstants.com/instant/goofy-slip-37065/embed/" }
 ];
 
 const board = document.getElementById("board");
