@@ -17,7 +17,8 @@ const sounds = [
     { title: "Notificação do WhatsApp", url: "https://www.myinstants.com/instant/whatsapp-web-notification-59439/embed/" },
     { title: "Boiola", url: "https://www.myinstants.com/instant/aperte-o-botao/embed/" },
     { title: "Byd Unico Poluente", url: "https://www.myinstants.com/instant/byd-unico-poluente-fumaca-de-rosca-10493/embed/" },
-    { title: "Encara Messi", url: "https://www.myinstants.com/instant/encara-messi-23845/embed/" }
+    { title: "Encara Messi", url: "https://www.myinstants.com/instant/encara-messi-23845/embed/" },
+    { title: "Ronaldo", url: "https://www.myinstants.com/pt/instant/ronaldo/embed/" }
 ];
 
 const board = document.getElementById("board");
