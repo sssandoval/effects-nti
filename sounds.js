@@ -11,6 +11,9 @@ const sounds = [
     { title: "Rapaz Xaropinho", url: "https://www.myinstants.com/instant/rapaz-xaropinho-ratinho-20505/embed/" },
     { title: "LEPO", url: "https://www.myinstants.com/instant/tiao-tiaaafo-lipo-47843/embed/" },
     { title: "Som do Uber", url: "https://www.myinstants.com/instant/uber-eats-56602/embed/" },
+    { title: "Moreninha Covarde", url: "https://www.myinstants.com/instant/moreninha-covarde-15755/embed/" },
+    { title: "Tu sai de problema", url: "https://www.myinstants.com/instant/tu-sai-de-problema-24807/embed/" },
+    { title: "Ta bom vc fala demais", url: "https://www.myinstants.com/instant/ta-bom-vc-fala-demais-90980/embed/" },
     { title: "Me mata de uma vez", url: "https://www.myinstants.com/instant/me-mata-de-uma-vez-trio-parada-dura-572/embed/" },
     { title: "Quem é esse rocambole?", url: "https://www.myinstants.com/instant/quem-e-esse-rocambole-38513/embed/" },
     { title: "Goofy Slip", url: "https://www.myinstants.com/instant/goofy-slip-37065/embed/" },
@@ -19,6 +22,7 @@ const sounds = [
     { title: "Byd Unico Poluente", url: "https://www.myinstants.com/instant/byd-unico-poluente-fumaca-de-rosca-10493/embed/" },
     { title: "Encara Messi", url: "https://www.myinstants.com/instant/encara-messi-23845/embed/" },
     { title: "Ronaldo", url: "https://www.myinstants.com/instant/ronaldo/embed/" }
+
 ];
 
 const board = document.getElementById("board");
