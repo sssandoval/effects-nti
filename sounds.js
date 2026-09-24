@@ -9,6 +9,8 @@ const sounds = [
     { title: "Ele gosta", url: "https://www.myinstants.com/instant/ele-gosta-1026/embed/" },
     { title: "Sua mãe sabe", url: "https://www.myinstants.com/instant/sua-mae-sabe-que-voce-gosta-de-rapazes-80078/embed/" },
     { title: "Rapaz Xaropinho", url: "https://www.myinstants.com/instant/rapaz-xaropinho-ratinho-20505/embed/" },
+        { title: "Vixi Ratinho", url: "https://www.myinstants.com/instant/vixi-ratinho-77320/embed/" },
+    { title: "Jesus Ratinho", url: "https://www.myinstants.com/instant/jesus-ratinho-34815/embed/" },
     { title: "LEPO", url: "https://www.myinstants.com/instant/tiao-tiaaafo-lipo-47843/embed/" },
     { title: "Som do Uber", url: "https://www.myinstants.com/instant/uber-eats-56602/embed/" },
     { title: "Moreninha Covarde", url: "https://www.myinstants.com/instant/moreninha-covarde-15755/embed/" },
