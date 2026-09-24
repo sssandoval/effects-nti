@@ -4,12 +4,11 @@ const sounds = [
     { title: "Risada Atumalaca", url: "https://www.myinstants.com/instant/risada-atumalaca-vai-dar-namoro-7385/embed/" },
     { title: "Huuu nooo cremoso", url: "https://www.myinstants.com/instant/huuunooo-e-muito-cremoso-9280/embed/" },
     { title: "Tiao Lepo", url: "https://www.myinstants.com/instant/tiao-lepo-23975/embed/" },
-    { title: "Metal caindo", url: "https://www.myinstants.com/instant/metal-pipe-falling-sound-effect-7737/embed/" },
     { title: "Que papelão hein?", url: "https://www.myinstants.com/instant/que-papelao-hein-efeito-sonoro-63472/embed/" },
     { title: "Ele gosta", url: "https://www.myinstants.com/instant/ele-gosta-1026/embed/" },
     { title: "Sua mãe sabe", url: "https://www.myinstants.com/instant/sua-mae-sabe-que-voce-gosta-de-rapazes-80078/embed/" },
     { title: "Rapaz Xaropinho", url: "https://www.myinstants.com/instant/rapaz-xaropinho-ratinho-20505/embed/" },
-        { title: "Vixi Ratinho", url: "https://www.myinstants.com/instant/vixi-ratinho-77320/embed/" },
+    { title: "Vixi Ratinho", url: "https://www.myinstants.com/instant/vixi-ratinho-77320/embed/" },
     { title: "Jesus Ratinho", url: "https://www.myinstants.com/instant/jesus-ratinho-34815/embed/" },
     { title: "LEPO", url: "https://www.myinstants.com/instant/tiao-tiaaafo-lipo-47843/embed/" },
     { title: "Som do Uber", url: "https://www.myinstants.com/instant/uber-eats-56602/embed/" },
@@ -19,12 +18,18 @@ const sounds = [
     { title: "Me mata de uma vez", url: "https://www.myinstants.com/instant/me-mata-de-uma-vez-trio-parada-dura-572/embed/" },
     { title: "Quem é esse rocambole?", url: "https://www.myinstants.com/instant/quem-e-esse-rocambole-38513/embed/" },
     { title: "Goofy Slip", url: "https://www.myinstants.com/instant/goofy-slip-37065/embed/" },
-    { title: "Notificação do WhatsApp", url: "https://www.myinstants.com/instant/whatsapp-web-notification-59439/embed/" },
     { title: "Boiola", url: "https://www.myinstants.com/instant/aperte-o-botao/embed/" },
     { title: "Byd Unico Poluente", url: "https://www.myinstants.com/instant/byd-unico-poluente-fumaca-de-rosca-10493/embed/" },
-    { title: "Encara Messi", url: "https://www.myinstants.com/instant/encara-messi-23845/embed/" },
-    { title: "Ronaldo", url: "https://www.myinstants.com/instant/ronaldo/embed/" }
-
+    { title: "Tome Rodrigo Faro", url: "https://www.myinstants.com/instant/tome-rodrigo-faro-31061/embed/" },
+    { title: "Som Inentendível Rodrigo Faro", url: "https://www.myinstants.com/instant/som-inentendivel-rodrigo-faro-88868/embed/" },
+    { title: "AAAL", url: "https://www.myinstants.com/instant/aaal-41211/embed/" },
+    { title: "Aiaiai Rodrigo Faro", url: "https://www.myinstants.com/instant/aiaiai-rodrigo-faro-70691/embed/" },
+    { title: "Aii Mâmãe", url: "https://www.myinstants.com/instant/aii-mamae-56629/embed/" },
+    { title: "E Brincadeira Hein Rodrigo Faro", url: "https://www.myinstants.com/instant/e-brincadeira-hein-rodrigo-faro-25623/embed/" },
+    { title: "Ch3ga", url: "https://www.myinstants.com/instant/ch3ga-14693/embed/" },
+    { title: "Demais Rodrigo Faro", url: "https://www.myinstants.com/instant/demais-rodrigo-faro-39618/embed/" },
+    { title: "Que isso meu filho calma Rodrigo Faro", url: "https://www.myinstants.com/instant/que-isso-meu-filho-calma-rodrigo-faro-48922/embed/" },
+    { title: "UI Rodrigo Faro", url: "https://www.myinstants.com/instant/ui-rodrigo-faro-92457/embed/" }
 ];
 
 const board = document.getElementById("board");
