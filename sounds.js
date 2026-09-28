@@ -30,7 +30,8 @@ const sounds = [
     { title: "Demais Rodrigo Faro", url: "https://www.myinstants.com/instant/demais-rodrigo-faro-39618/embed/" },
     { title: "Que isso meu filho calma Rodrigo Faro", url: "https://www.myinstants.com/instant/que-isso-meu-filho-calma-rodrigo-faro-48922/embed/" },
     { title: "UI Rodrigo Faro", url: "https://www.myinstants.com/instant/ui-rodrigo-faro-92457/embed/" },
-    { title: "Parei Família e Máfia", url: "https://www.myinstants.com/instant/parei-familia-e-mafia-80250/embed/" }
+    { title: "Parei Família e Máfia", url: "https://www.myinstants.com/instant/parei-familia-e-mafia-80250/embed/" },
+    { title: "Num quero não", url: "https://www.myinstants.com/instant/num-quero-nao-4388/embed/" }
 ];
 
 /* ==========================================================================
